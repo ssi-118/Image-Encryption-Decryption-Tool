@@ -1,4 +1,3 @@
-# app.py
 import streamlit as st
 
 from crypto_utils import encrypt_ecb, decrypt_ecb, encrypt_cbc, decrypt_cbc
